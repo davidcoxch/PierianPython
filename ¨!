@@ -1,0 +1,21 @@
+3rd
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   2_Python_Statements/FizzBuzz.py
+#	new file:   2_Python_Statements/list_divisible_by_3.py
+#	new file:   2_Python_Statements/print.even.py
+#	new file:   2_Python_Statements/print_even_numbers.py
+#	new file:   2_Python_Statements/print_words_starting_with_s.py
+#	new file:   3_object_data_structure_basics/boolean.py
+#	new file:   3_object_data_structure_basics/changealist.py
+#	new file:   3_object_data_structure_basics/searchdictionaries.py
+#	new file:   3_object_data_structure_basics/set.py
+#	new file:   3_object_data_structure_basics/sort.py
+#	new file:   3_object_data_structure_basics/tuples.py
+#	new file:   New folder/print_words_starting_with_s.py
+#
