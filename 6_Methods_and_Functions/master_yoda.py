@@ -11,3 +11,10 @@ This means if you had a list of words you wanted to turn back into a sentence, y
 >>> " ".join(['Hello','world'])
 >>> "Hello world"
 """
+
+def master_yoda(text):
+    list = text.split()
+    rev = " ".join(list[::-1])
+    return(rev)
+
+print(master_yoda('I am home'))
