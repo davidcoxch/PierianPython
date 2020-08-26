@@ -7,3 +7,9 @@ the .replace() method in a string to help out with dealing with spaces. Also goo
 how to reverse a string in Python, there are some clever ways to do it with slicing notation.
 
 """
+
+def palindrome(s):
+    t = s.replace(" ", "")
+    return t == t[::-1]
+
+print(palindrome('nurses run'))
